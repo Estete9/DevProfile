@@ -34,7 +34,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginLeft="24dp"
         android:layout_marginTop="20dp"
-        android:text="TextView"
+        android:text="TutorialProfile"
         android:textSize="24sp"
         app:layout_constraintStart_toEndOf="@+id/logo"
         app:layout_constraintTop_toBottomOf="@id/banner" />
